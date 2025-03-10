@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This page was added after the site was generated. Its parent is the home page \"AVAnnotate test 2\"."
+        }
+      ]
+    }
+  ],
+  "title": "Added page",
+  "parent": "657b942b-116a-4608-a84d-770a381fce8b",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "added-page",
+  "created_at": "2025-03-10T16:38:23.566Z",
+  "created_by": "pbinkley",
+  "updated_at": "2025-03-10T16:38:23.566Z",
+  "updated_by": "pbinkley"
+}
